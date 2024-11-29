@@ -282,7 +282,7 @@ main {
 
 /* Estilo para el texto debajo de los íconos */
 .footer-text {
-    color: white;
+    color: rgb(250, 2, 2);
     font-size: 16px;
     text-align: center;
     margin-top: 20px; /* Agregar margen para separar el texto de los íconos */

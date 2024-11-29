@@ -163,7 +163,7 @@ empieza footer
   bottom: 0;
   width: 100%;
   padding: 40px 0;
-  background-color: black;
+  background-color: rgb(8, 8, 8);
   justify-content: center;
   align-items: center;
   gap: 20px;
